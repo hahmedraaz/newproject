@@ -1,3 +1,4 @@
 this is a new file for practice
 i have cloned the repo 
 i have aded new data in this file.
+now i am adding file in my remote repository.
